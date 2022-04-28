@@ -11,3 +11,13 @@ Welcome to the repository of code for the QML Paper Review series. These videos 
 [Paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.012405)
 
 [arXiv version](https://arxiv.org/abs/2008.06517)
+
+## Evaluating the Noise Resilience of Variational Quantum Algorithms
+
+[Video]()
+
+[Code](https://github.com/lockwo/Paper-Review/tree/main/Evaluating-Noise-Resilience)
+
+[Paper](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.104.022403)
+
+[arXiv version](https://arxiv.org/abs/2011.01125)
