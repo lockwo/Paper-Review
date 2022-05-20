@@ -1,6 +1,6 @@
-# Quantum Machine Learning Paper Reviews
+# Paper Reviews
 
-Welcome to the repository of code for the QML Paper Review series. These videos are made by IBM Quantum and Qiskit. 
+Welcome to the repository of code for the Paper Review series. These videos are made by Qiskit. 
 
 ## Estimating Gradients and Higher-Order Derivatives on Quantum Hardware
 
