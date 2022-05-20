@@ -24,7 +24,7 @@ Welcome to the repository of code for the Paper Review series. These videos are 
 
 ## Hardware-Efficient Variational Quantum Eigensolver for Small Molecules and Quantum Magnets
 
-[Video]()
+[Video](https://www.youtube.com/watch?v=uvBauYQYVNg)
 
 [Code](https://github.com/lockwo/Paper-Review/tree/main/HEA-VQE)
 
