@@ -14,7 +14,7 @@ Welcome to the repository of code for the Paper Review series. These videos are 
 
 ## Evaluating the Noise Resilience of Variational Quantum Algorithms
 
-[Video]()
+[Video](https://www.youtube.com/watch?v=e_fJ-dz9gF8)
 
 [Code](https://github.com/lockwo/Paper-Review/tree/main/Evaluating-Noise-Resilience)
 
